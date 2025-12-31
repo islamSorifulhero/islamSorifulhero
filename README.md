@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/7yF0Z8C/github-banner.png)
+<img alt="coding" width="400" src="../islamSorifulhero/images/bannar.jpeg">
 
 # 👋 Hi, I'm Md Soriful Islam  
 ### 🚀 Frontend Web Developer
@@ -37,7 +37,7 @@ My goal is to create clean, efficient, and scalable frontend solutions.
 
 ## 🔗 Social Links
 - 💼 LinkedIn: https://linkedin.com/in/md-soriful-islam
-- 🧑‍💻 GitHub: https://github.com/yourusername
+- 🧑‍💻 GitHub: https://github.com/islamsoriful.hero
 
 ---
 
