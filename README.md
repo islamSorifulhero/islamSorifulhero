@@ -56,17 +56,10 @@
 ---
 
 ## 🔗 Social Links
-- 💼 LinkedIn: https://linkedin.com/in/md-soriful-islam
+- 💼 LinkedIn: https://www.linkedin.com/in/md-soriful-islam-hero
 - 🧑‍💻 GitHub: https://github.com/islamSorifulhero
+- 🧑 Facebook: https://www.facebook.com/islamsoriful.hero
 
----
-
-<!-- ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername) -->
-
----
 
 ## 📊 GitHub Stats
 
