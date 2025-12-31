@@ -1,4 +1,6 @@
-<img alt="coding" width="400" src="../islamSorifulhero/images/bannar.jpeg">
+<p align="center">
+  <img src="images/bannar.jpeg" alt="Banner" width="100%">
+</p>
 
 # 👋 Hi, I'm Md Soriful Islam  
 ### 🚀 Frontend Web Developer
