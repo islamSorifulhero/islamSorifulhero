@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="images/bannar.jpeg" alt="Banner" width="100%">
+  <img src="images/bannar.jpeg" alt="Banner" width="400">
 </p>
 
-# 👋 Hi, I'm Md Soriful Islam  
-### 🚀 Frontend Web Developer
+<h1 align="center">👋 Hi, I'm Md Soriful Islam</h1>
+<h3 align="center">🚀 Frontend Web Developer</h3>
+
 
 ---
 
 ## 👨‍💻 About Me
-I am a passionate Frontend Web Developer with strong skills in HTML, CSS, JavaScript, and React.  
-I enjoy building responsive, user-friendly web applications and continuously learning modern web technologies.  
-My goal is to create clean, efficient, and scalable frontend solutions.
+<p>I am a passionate Frontend Web Developer with strong skills in HTML, CSS, JavaScript, and React. I enjoy building responsive, user-friendly web applications and continuously learning modern web technologies. My goal is to create clean, efficient, and scalable frontend solutions.</p>
+
 
 ---
 
