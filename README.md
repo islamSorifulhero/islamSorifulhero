@@ -63,9 +63,13 @@
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=islamSorifulhero&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamSorifulhero&layout=compact&theme=radical" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=islamSorifulhero&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=islamSorifulhero&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
