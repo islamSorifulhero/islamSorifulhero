@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
-<p>I am a passionate Frontend Web Developer with strong skills in HTML, CSS, JavaScript, and React. I enjoy building responsive, user-friendly web applications and continuously learning modern web technologies. My goal is to create clean, efficient, and scalable frontend solutions.</p>
+<p>I am a passionate Frontend Web Developer with strong skills in HTML5, CSS3, JavaScript, and React. I enjoy building responsive, user-friendly web applications and continuously learning modern web technologies. My goal is to create clean, efficient, and scalable frontend solutions.</p>
 
 
 ---
