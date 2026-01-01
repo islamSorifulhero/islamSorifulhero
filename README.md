@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="images/bannar.jpeg" alt="Banner" width="400">
+<p>
+  <img src="images/bannar1.png" alt="Banner">
 </p>
 
 <h1 align="center">👋 Hi, I'm Md Soriful Islam</h1>
